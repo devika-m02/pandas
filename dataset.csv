@@ -1,0 +1,6 @@
+text_column,sentiment_column
+I absolutely love this product! It's fantastic.,positive
+Terrible experience. I will never buy this again.,negative
+"The service was okay, but the product quality could be better.",neutral
+Amazing! Exceeded my expectations in every way.,positive
+"Not bad, but there is room for improvement.",neutral
